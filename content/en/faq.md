@@ -14,7 +14,7 @@ No. You can choose a $0-down lease, state-backed loan, or community-solar subscr
 
 - **Federal ITC:** 30 % of system cost
 - **State Credit:** 15 % of cost, up to $1,000
-- **Net-Metering:** Retail-rate credits for excess power  
+- **Net-Metering:** Retail-rate credits for excess power
 
 ## 4. How long does it take to pay back?
 
