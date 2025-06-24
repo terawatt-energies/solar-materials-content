@@ -43,6 +43,4 @@
 
 ### Scan the QR code
 
-Visit
-
 [mass.gov/massachusetts-solar-for-all-program](https://www.mass.gov/massachusetts-solar-for-all-program)
