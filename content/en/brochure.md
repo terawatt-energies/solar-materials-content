@@ -2,7 +2,7 @@
 
 # Solar Savings, Brighter Futures
 
-**Discover how you can cut your electric bill by 20 % or more—at zero upfront cost!**
+**Discover how you can cut your electric bill by 20 % or more with ZERO upfront cost!**
 
 ---
 
@@ -10,7 +10,7 @@
 
 1. **Check Eligibility**  
    Answer a few simple questions online (ZIP code, household size, income) to see if you qualify.  
-   *(Good news: most income-qualified households save at least 20 % on Day 1.)*
+   _(Good news: most income-qualified households save at least 20 % on Day 1.)_
 
 2. **Install Solar**  
    Choose a $0-down lease, state-backed loan, or community-solar subscription—no upfront payment needed.
