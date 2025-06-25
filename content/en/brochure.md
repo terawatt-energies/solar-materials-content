@@ -2,7 +2,7 @@
 
 # Solar Savings, Brighter Futures
 
-**Discover how you can cut your electric bill by 20 % or more with ZERO upfront cost!**
+**Discover how you can cut your electric bill by 20% or more with ZERO upfront cost!**
 
 ---
 
@@ -10,7 +10,7 @@
 
 1. **Check Eligibility**  
    Answer a few simple questions online to see if you qualify.  
-   _Most income-qualified households save at least 20 % on Day 1_
+   _Most income-qualified households save at least 20% on Day 1_
 
 2. **Install Solar**  
    Choose a $0-down lease, state-backed loan, or community-solar subscription with no upfront payment needed.
@@ -22,25 +22,21 @@
 
 ## Your Benefits
 
-- **Immediate Bill Relief:**  
+- **Immediate Bill Relief**
   Average MA rate is 30¢ / kWh; solar panels generate power for at least 20% less.
-- **Zero-Upfront Cost:**  
+- **Zero-Upfront Cost**
   No down payment required for leases or loans.
-- **30 % Federal Tax Credit:**  
+- **30% Federal Tax Credit**
   Slash system cost by nearly one-third through the Investment Tax Credit.
-- **15 % State Tax Credit:**  
+- **15% State Tax Credit**
   Additional savings up to $1,000 on your state income tax.
-- **Fast Payback:**  
+- **Fast Payback**
   Typical payback period is 5–10 years, then it’s pure savings.
-- **Community Solar Options:**  
+- **Community Solar Options**
   Renters and condo owners can subscribe to shared arrays.
-- **Cleaner Air & Jobs:**  
+- **Cleaner Air & Jobs**
   Reduce emissions, support local installers, and strengthen your community.
 
 ---
 
 ## Ready to Go Solar?
-
-### Scan the QR code
-
-[mass.gov/massachusetts-solar-for-all-program](https://www.mass.gov/massachusetts-solar-for-all-program)
