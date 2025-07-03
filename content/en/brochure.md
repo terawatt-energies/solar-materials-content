@@ -1,6 +1,6 @@
 <!-- Brochure Copy -->
 
-# Solar Savings, Brighter Futures
+# Solar Savings, Brighter Future
 
 **Discover how you can cut your electric bill by 20% or more with ZERO upfront cost!**
 
